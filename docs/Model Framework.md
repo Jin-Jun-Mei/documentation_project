@@ -2,4 +2,4 @@
 Agent-based modeling (ABM) is ...
 '''
 
-HAPPI (Heterogenous Agent-based Power Plant Investment) model 
+HAPPI (Heterogenous Agent-based Power Plant Investment) model
